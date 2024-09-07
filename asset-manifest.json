@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luckygame/static/css/main.92e955fd.css",
+    "main.js": "/luckygame/static/js/main.5ec45bf5.js",
+    "index.html": "/luckygame/index.html",
+    "main.92e955fd.css.map": "/luckygame/static/css/main.92e955fd.css.map",
+    "main.5ec45bf5.js.map": "/luckygame/static/js/main.5ec45bf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e955fd.css",
+    "static/js/main.5ec45bf5.js"
+  ]
+}
